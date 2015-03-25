@@ -11,4 +11,12 @@
 
     <artifactId>logberry-web-view</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>ru.lanit.bpm.logberry</groupId>
+            <artifactId>logberry-web-controller</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>
